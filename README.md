@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/GabrielMagnagoDev/GabrielMagnagoDev/blob/main/Github_pic.png)
 
 # Gabriel Magnago
-I'm Gabriel from Brazil, and I do content on Data Science. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+Olá eu sou Gabriel, Sou atualmente instrutor de Robótica e Programação de Jogos. Estudante fascinado por Ciência de Dados, crio conteúdo sobre programação e ciência.
 
 ## 🚀 Habilidades e Experiência
 <p align="left"> 
