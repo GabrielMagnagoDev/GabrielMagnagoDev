@@ -14,6 +14,6 @@ Olá eu sou Gabriel, Sou atualmente instrutor de Robótica e Programação de Jo
 ##
 <div> 
   <a href="https://www.youtube.com/channel/UC8Ms6D9H6p8Y60g8ShxnwAA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gabriel.magnago" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/AlvesMagnago" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href=" www.linkedin.com/in/gabriel-magnago-alves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
